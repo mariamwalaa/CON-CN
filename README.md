@@ -1,6 +1,6 @@
 # Analysis of Centrality in Competition Networks
 
-This repository provides data, code, models, and analysis pertaining to the [link to Arxiv]() paper on Centrality Measures in Competition Networks.
+This repository provides data, code, models, and analysis pertaining to the [Analysis and Predictability of Centrality in Competition Networks](https://math.ryerson.ca/~abonato/papers/comp_013125.pdf) paper.
 
 ## Data
 

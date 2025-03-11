@@ -1,0 +1,734 @@
+rank,username,country,rating,title,score,tie_break,wins,draws,byes
+1,iturrizaga,Spain,2978,GM,9.5,74.0,8,3,0
+2,wonderfultime,Vietnam,3031,GM,9.5,72.0,9,1,0
+3,VincentKeymer,Germany,3027,GM,9.5,64.5,9,1,0
+4,MITerryble,Peru,3005,IM,9.5,61.5,9,1,0
+5,Polish_fighter3000,Poland,3057,GM,9.0,79.5,8,2,0
+6,GHANDEEVAM2003,India,3046,GM,9.0,71.5,9,0,0
+7,LevonAronian,United States,3022,GM,9.0,70.5,7,4,0
+8,GMWSO,United States,3101,GM,9.0,68.5,9,0,0
+9,dropstoneDP,Click here to see our stance on the war in Ukraine,3088,GM,9.0,68.0,7,4,0
+10,Durarbayli,Azerbaijan,2863,GM,9.0,67.5,9,0,0
+11,shimastream,Click here to see our stance on the war in Ukraine,2881,GM,9.0,63.5,9,0,0
+12,MatthewG-p4p,Click here to see our stance on the war in Ukraine,2937,IM,8.5,76.0,8,1,0
+13,Hikaru,United States,3223,GM,8.5,73.0,8,1,0
+14,TRadjabov,Azerbaijan,3075,GM,8.5,71.0,8,1,0
+15,FGHSMN,India,2868,GM,8.5,69.0,8,1,0
+16,joppie2,Netherlands,3055,GM,8.5,66.0,8,1,0
+17,artin10862,Iran,2943,FM,8.5,63.5,7,3,0
+18,Vaathi_Coming,India,2950,GM,8.5,54.5,8,1,0
+19,FormerProdigy,Czech Republic,2938,GM,8.0,74.5,6,4,0
+20,lilleper1,Denmark,2948,GM,8.0,73.5,7,2,0
+21,wudileige,China,3004,GM,8.0,73.0,7,2,0
+22,Rud_Makarian,Click here to see our stance on the war in Ukraine,3072,IM,8.0,72.5,6,4,0
+23,vi_pranav,India,3158,GM,8.0,71.5,8,0,0
+24,DominguezOnYoutube,United States,2968,GM,8.0,71.5,7,2,0
+25,Fandorine,Spain,2899,GM,8.0,70.5,8,0,0
+26,maciek_92,Poland,2926,GM,8.0,69.5,7,2,0
+27,Msb2,Germany,3132,GM,8.0,69.5,7,2,0
+28,Oleksandr_Bortnyk,United States,3109,GM,8.0,69.0,8,0,0
+29,WhiteKnight2612,India,2901,IM,8.0,68.5,7,2,0
+30,Igor_Lysyj,International,2853,GM,8.0,67.5,7,2,0
+31,AnishOnYoutube,Netherlands,3095,GM,8.0,67.5,6,4,0
+32,sergoy,South Korea,2971,GM,8.0,67.5,7,2,0
+33,Shield12,Uzbekistan,2972,GM,8.0,67.0,7,2,0
+34,Beca95,Serbia,2905,GM,8.0,67.0,7,2,0
+35,jacky72,Romania,2843,IM,8.0,65.5,8,0,0
+36,Zhigalko_Sergei,International,2948,GM,8.0,64.5,7,2,0
+37,Janosik,Slovakia,2841,GM,8.0,63.5,7,2,0
+38,Chuson,China,2683,IM,8.0,62.5,8,0,0
+39,FXDon77,China,2890,GM,8.0,61.5,8,0,0
+40,Prizant_academy,Click here to see our stance on the war in Ukraine,3183,FM,8.0,61.5,6,4,0
+41,Kirill_Klukin,United Arab Emirates,2930,IM,8.0,61.0,8,0,0
+42,Alen_Yeremyann,Armenia,2770,FM,8.0,58.5,8,0,0
+43,Macho_2006,Uzbekistan,2955,IM,8.0,57.0,8,0,0
+44,Grischuk,Click here to see our stance on the war in Ukraine,3073,GM,7.5,75.5,7,1,0
+45,alexrustemov,Click here to see our stance on the war in Ukraine,2931,GM,7.5,72.5,5,5,0
+46,BirdMaster3000,Brazil,2639,GM,7.5,72.5,6,3,0
+47,rasmussvane,Germany,3000,GM,7.5,72.0,6,3,0
+48,mishanick,Serbia,3040,GM,7.5,70.5,7,1,0
+49,Byniolus,Poland,2772,GM,7.5,70.5,7,1,0
+50,chito89,Paraguay,2886,GM,7.5,70.0,7,1,0
+51,1982lf,China,2863,NM,7.5,70.0,7,1,0
+52,Anton_Demchenko,Slovenia,3021,GM,7.5,69.0,7,1,0
+53,Sam_ChessMood,Armenia,2919,GM,7.5,68.0,7,1,0
+54,Rsnr,International,2900,IM,7.5,66.0,6,3,0
+55,Ticondriul,Argentina,2627,FM,7.5,64.0,7,1,0
+56,Leonid_Starozhilov,Ukraine,2743,FM,7.5,62.0,7,1,0
+57,Bauman_Guy,International,2977,FM,7.5,61.5,6,3,0
+58,Sl4werThanYou,Sweden,2714,IM,7.5,61.5,7,1,0
+59,tptagain,Spain,3031,GM,7.5,61.5,7,1,0
+60,ilqar_74,Azerbaijan,2848,FM,7.5,61.0,6,3,0
+61,SantoBlue,Türkiye,2845,GM,7.5,61.0,7,1,0
+62,Yurovskykh_Oleksandr,Ukraine,2587,FM,7.5,59.0,7,1,0
+63,AlmasRakhmatullaev,China,2847,IM,7.5,57.0,7,1,0
+64,Kobalia,Click here to see our stance on the war in Ukraine,2795,GM,7.5,56.0,6,3,0
+65,baki83,France,2916,GM,7.5,56.0,7,1,0
+66,ckgchess,Türkiye,2849,GM,7.5,55.5,7,1,0
+67,htopia,Türkiye,2670,FM,7.5,55.0,7,1,0
+68,AvitalBor,Israel,2807,GM,7.5,52.5,7,1,0
+69,azikom,Azerbaijan,2716,GM,7.5,50.5,7,1,0
+70,Radzio1987,Poland,2898,GM,7.0,73.0,6,2,0
+71,jcibarra,Spain,3034,GM,7.0,68.5,7,0,0
+72,KuzubovYuriy,Ukraine,2962,GM,7.0,68.5,6,2,0
+73,Sethu0025,India,2933,GM,7.0,67.5,7,0,0
+74,frederiksvane,Germany,3032,GM,7.0,66.0,5,4,0
+75,Sokoloco,Kazakhstan,2715,IM,7.0,65.5,7,0,0
+76,Seochesspie,Sweden,2831,IM,7.0,65.0,4,6,0
+77,Salem-AR,United Arab Emirates,3091,GM,7.0,65.0,7,0,0
+78,MightyGMpretender,Poland,3005,NM,7.0,63.5,7,0,0
+79,Aygehovit1992,International,2742,GM,7.0,63.5,7,0,0
+80,RobertoJBM,Brazil,2871,IM,7.0,62.5,6,2,0
+81,ContrVersia,Lithuania,2909,GM,7.0,62.0,6,2,0
+82,GMAkobianSTL,United States,2802,GM,7.0,61.5,6,2,0
+83,enriquetejedor,Spain,2758,IM,7.0,61.5,6,2,0
+84,SnekkerAndersen,Norway,2599,FM,7.0,61.0,6,2,0
+85,chessdjw,Germany,2764,GM,7.0,61.0,6,2,0
+86,Matibar,Poland,2846,GM,7.0,60.5,6,2,0
+87,scarabee43,France,2915,IM,7.0,60.0,7,0,0
+88,viktorgen2021,Ukraine,2566,FM,7.0,59.5,7,0,0
+89,RaunakSadhwani2005,India,3111,GM,7.0,59.5,5,4,0
+90,Nikolakis2014,Greece,2760,GM,7.0,59.0,7,0,0
+91,Casper,China,2429,FM,7.0,58.5,6,2,0
+92,Lennis93,United States,2752,IM,7.0,58.0,7,0,0
+93,blitzking1729,India,2785,IM,7.0,57.0,6,2,0
+94,Harry_Rakkel,Poland,2636,GM,7.0,57.0,6,2,0
+95,IM_ArthurDW08,Netherlands,2751,IM,7.0,56.5,7,0,0
+96,Mikhail_Bryakin,Serbia,2806,GM,7.0,56.0,6,2,0
+97,SharapovEvgeny,Ukraine,2605,GM,7.0,56.0,7,0,0
+98,Korchmar_Vasiliy,Click here to see our stance on the war in Ukraine,2724,IM,7.0,55.5,7,0,0
+99,lucasran,Norway,2616,FM,7.0,55.0,6,2,0
+100,slorovel,Slovenia,2630,FM,7.0,54.5,6,2,0
+101,jk13,United States,2632,IM,7.0,54.5,6,2,0
+102,djano,Poland,2622,FM,7.0,54.0,7,0,0
+103,carokannlover213,Poland,2780,FM,7.0,54.0,7,0,0
+104,Martial2008,Norway,2633,IM,7.0,54.0,7,0,0
+105,VladimirPotkin,Click here to see our stance on the war in Ukraine,2609,GM,7.0,52.5,7,0,0
+106,GaiozNigalidze,Georgia,2766,IM,7.0,52.5,7,0,0
+107,Gabrielian_Artur,Click here to see our stance on the war in Ukraine,2732,GM,7.0,50.5,7,0,0
+108,Dinosaurio_1975,Spain,2586,CM,7.0,50.5,6,2,0
+109,Yeritsyaan,Armenia,2659,FM,7.0,43.5,7,0,0
+110,ChessSwole,United States,2800,FM,7.0,41.5,6,2,0
+111,MyDream003,International,2731,IM,6.5,67.5,6,1,0
+112,Kacparov,Poland,2952,IM,6.5,67.5,6,1,0
+113,quvnoq_muxlis,Click here to see our stance on the war in Ukraine,2747,CM,6.5,65.5,5,3,0
+114,bazar-wokzal,International,2582,IM,6.5,65.5,6,1,0
+115,sokidze,Ukraine,2905,GM,6.5,64.5,5,3,0
+116,RojonR,Click here to see our stance on the war in Ukraine,2693,FM,6.5,64.5,6,1,0
+117,Rodalquilar,Argentina,2792,GM,6.5,63.5,6,1,0
+118,viktorskliarov,Ukraine,2668,IM,6.5,62.5,6,1,0
+119,Witik,Click here to see our stance on the war in Ukraine,2796,FM,6.5,62.5,6,1,0
+120,A-Fier,Brazil,2809,GM,6.5,62.0,6,1,0
+121,krzyzan94,Poland,2851,GM,6.5,62.0,6,1,0
+122,Levanzovsky,Israel,2531,FM,6.5,61.5,6,1,0
+123,koncheto,Bulgaria,2589,CM,6.5,60.0,6,1,0
+124,Szparu,Poland,2909,IM,6.5,59.5,6,1,0
+125,M1711,Norway,2653,IM,6.5,59.5,5,3,0
+126,Kildepiotr,Poland,2694,IM,6.5,59.5,6,1,0
+127,ChessQueen,International,2750,GM,6.5,59.0,6,1,0
+128,ELECTRODYNAMIC_DRACULA,Isle of Man,2903,FM,6.5,58.0,6,1,0
+129,Meri-Arabidze,Georgia,2673,IM,6.5,57.5,6,1,0
+130,Statham,South Africa,2723,CM,6.5,57.0,6,1,0
+131,Aradhya2000,India,2798,IM,6.5,57.0,6,1,0
+132,IlanSchnaider,Argentina,2803,FM,6.5,57.0,6,1,0
+133,PepeCuenca,Spain,2771,GM,6.5,57.0,6,1,0
+134,GiorgianBarbosa,Brazil,2502,FM,6.5,56.5,5,3,0
+135,Mikedannnn,Click here to see our stance on the war in Ukraine,2705,IM,6.5,56.0,6,1,0
+136,AjedrezInteligente,Spain,2400,CM,6.5,56.0,6,1,0
+137,Isajevsky_Anton,Click here to see our stance on the war in Ukraine,2691,FM,6.5,54.5,6,1,0
+138,fm24601,Singapore,2608,FM,6.5,54.0,6,1,0
+139,ChainedDowntohell,US Virgin Islands,2595,IM,6.5,53.0,6,1,0
+140,Sychev_Klementy,Somalia,2935,GM,6.5,53.0,5,3,0
+141,Grossboss19,Ukraine,2600,CM,6.5,52.5,6,1,0
+142,rhungaski,United States,2556,GM,6.5,52.5,6,1,0
+143,Zavgorodniy_Sergiy,Ukraine,2560,IM,6.5,52.0,6,1,0
+144,Timerkhanov,Click here to see our stance on the war in Ukraine,2616,FM,6.5,51.0,6,1,0
+145,JuniorJumper,India,2500,CM,6.5,50.0,4,5,0
+146,Adar_07,Türkiye,2729,IM,6.5,49.5,6,1,0
+147,Finally_I_Won,Bangladesh,2138,CM,6.5,47.5,6,1,0
+148,Hovik_Hayrapetyan,Armenia,2889,GM,6.0,68.5,5,2,0
+149,CaspiIsrael,Switzerland,2672,GM,6.0,66.0,6,0,0
+150,vasblesk,Czech Republic,2805,IM,6.0,64.5,5,2,0
+151,Chessdreamer2020,Kazakhstan,2571,FM,6.0,63.5,6,0,0
+152,chucksterf10,Iceland,2621,FM,6.0,62.5,5,2,0
+153,nickmatta,United States,2533,FM,6.0,61.0,5,2,0
+154,BardArtem,International,2833,FM,6.0,61.0,5,2,0
+155,vangulio,Panama,2562,IM,6.0,60.5,6,0,0
+156,ErikRonka,Finland,2492,FM,6.0,60.0,5,2,0
+157,Abund,China,2694,NM,6.0,59.0,6,0,0
+158,CSB7,Hungary,2803,IM,6.0,59.0,6,0,0
+159,masterofpuppets2,Germany,2532,FM,6.0,58.5,6,0,0
+160,luckyswitchback,Click here to see our stance on the war in Ukraine,2687,FM,6.0,58.5,5,2,0
+161,GothamChess,United States,2719,IM,6.0,58.0,5,2,0
+162,Zq1,United States,2551,GM,6.0,58.0,6,0,0
+163,chess123456s,India,2614,FM,6.0,57.0,5,2,0
+164,IMRosen,Germany,2726,IM,6.0,56.5,5,2,0
+165,Vesper2018,Click here to see our stance on the war in Ukraine,2648,IM,6.0,56.0,6,0,0
+166,ZOQTE,Spain,2428,FM,6.0,56.0,6,0,0
+167,vovachesss,International,2763,CM,6.0,55.5,6,0,0
+168,YurasovMat-2012,International,2634,CM,6.0,55.5,6,0,0
+169,ri4mi,Click here to see our stance on the war in Ukraine,2605,NM,6.0,55.0,6,0,0
+170,Let_it_be_1,Click here to see our stance on the war in Ukraine,2655,IM,6.0,55.0,5,2,0
+171,Fritz1K,Click here to see our stance on the war in Ukraine,2608,CM,6.0,54.5,5,2,0
+172,tandaleo,Slovenia,2605,FM,6.0,54.5,6,0,0
+173,BestStelker,Slovakia,2700,IM,6.0,54.5,5,2,0
+174,jinbojinbo,China,2698,GM,6.0,54.0,6,0,0
+175,Carow-Kann,Germany,2673,IM,6.0,54.0,6,0,0
+176,kleopl,Poland,2536,NM,6.0,54.0,6,0,0
+177,Rdeux42,France,2502,GM,6.0,53.5,5,2,0
+178,dosto07,Mexico,2502,IM,6.0,53.5,5,2,0
+179,Caroexpert,International,2553,IM,6.0,53.0,5,2,0
+180,Happy1712Drummer,Ukraine,2493,IM,6.0,53.0,6,0,0
+181,Lion-Al-Messi,Norway,2619,FM,6.0,53.0,6,0,0
+182,CarlosjPineror,Venezuela,2726,IM,6.0,52.0,6,0,0
+183,chess_blitz00,International,2521,NM,6.0,51.5,6,0,0
+184,Maxfan2008,Poland,2656,FM,6.0,50.5,5,2,0
+185,profedechess93,Cuba,2621,CM,6.0,50.0,6,0,0
+186,mortngabriel,Czech Republic,2552,FM,6.0,48.5,6,0,0
+187,Cayse,Ukraine,2817,GM,6.0,48.5,5,2,0
+188,thesupera12,Türkiye,2453,NM,6.0,47.5,5,2,0
+189,Lady_Nika,Click here to see our stance on the war in Ukraine,2535,WCM,6.0,47.0,6,0,0
+190,ElVital,Finland,2339,FM,6.0,47.0,6,0,0
+191,deribas12345,Click here to see our stance on the war in Ukraine,2617,IM,6.0,47.0,6,0,0
+192,Leebit02,Kazakhstan,2629,FM,6.0,45.5,5,2,0
+193,secrethawk1,Türkiye,2406,CM,6.0,45.0,6,0,0
+194,Journey_to_GrandMaster_YT,Germany,2754,IM,6.0,45.0,6,0,0
+195,DefiantChair,Kazakhstan,2603,FM,6.0,44.5,6,0,0
+196,tusplingher,Romania,2718,FM,6.0,44.5,6,0,0
+197,xakevicius91,Catalonia,2582,FM,6.0,44.0,6,0,0
+198,CamilliaLegend,Canada,2618,NM,6.0,41.5,5,2,0
+199,ScofieldMichael01,France,2570,FM,6.0,34.5,5,2,0
+200,Manukyan_Artak,Armenia,2466,NM,5.5,65.5,5,1,0
+201,CristianS27,Argentina,2480,FM,5.5,61.5,5,1,0
+202,FREDERICKtheMATE,Scotland,2723,FM,5.5,61.0,5,1,0
+203,WPWPWP-2015,Poland,2515,FM,5.5,61.0,5,1,0
+204,NewBornNow,Moldova,2814,GM,5.5,58.0,5,1,0
+205,PavelShkapenko,International,2750,IM,5.5,57.5,4,3,0
+206,RodokininEV,Mexico,2678,NM,5.5,57.0,4,3,0
+207,Atousa,United States,2518,WGM,5.5,57.0,4,3,0
+208,secretsuperstar7,Ireland,2511,WIM,5.5,57.0,5,1,0
+209,ATM622,Malta,2531,CM,5.5,56.5,5,1,0
+210,Goryachkina,Click here to see our stance on the war in Ukraine,2677,GM,5.5,56.0,5,1,0
+211,DimWitChess,Belgium,2446,FM,5.5,56.0,4,3,0
+212,TomsKantans,Latvia,2709,GM,5.5,55.5,5,1,0
+213,Tunahan_Makaraci,Türkiye,2576,FM,5.5,55.5,4,3,0
+214,verrbaa,Ukraine,2451,WIM,5.5,55.5,5,1,0
+215,Iskusnyh,Click here to see our stance on the war in Ukraine,2601,GM,5.5,55.5,5,1,0
+216,Gryffindorac8,European Union,2494,CM,5.5,55.0,5,1,0
+217,Ural_bogatyr,Click here to see our stance on the war in Ukraine,2547,IM,5.5,55.0,5,1,0
+218,mbojan,Bosnia-Herzegovina,2912,IM,5.5,55.0,5,1,0
+219,GeorgiosSouleidis,Greece,2728,IM,5.5,54.5,5,1,0
+220,Nouali_Mohamed,Tunisia,2608,FM,5.5,54.0,5,1,0
+221,zverr1,England,2532,CM,5.5,54.0,5,1,0
+222,Shuvalov,Click here to see our stance on the war in Ukraine,2652,CM,5.5,53.5,5,1,0
+223,Alexchess1984,Czech Republic,2687,GM,5.5,53.0,4,3,0
+224,Bacyanide,Georgia,2512,GM,5.5,53.0,5,1,0
+225,j_coca,Colombia,2417,FM,5.5,53.0,5,1,0
+226,Actuary44,Poland,2490,CM,5.5,52.5,5,1,0
+227,santosalberto1987,Ecuador,2515,IM,5.5,52.0,5,1,0
+228,whitemirrorninja,Israel,2495,FM,5.5,51.5,5,1,0
+229,Kotlyar_K,Click here to see our stance on the war in Ukraine,2653,FM,5.5,51.0,5,1,0
+230,brm72,Ukraine,2704,NM,5.5,51.0,5,1,0
+231,aranibos,Netherlands,2210,FM,5.5,50.0,5,1,0
+232,UNSTOPPABLE_LEGEND,India,2601,FM,5.5,49.5,5,1,0
+233,Irishchessman16,Ireland,2548,IM,5.5,49.0,5,1,0
+234,ural58,Ukraine,2528,IM,5.5,49.0,4,3,0
+235,LionelMessiFCB,India,2516,CM,5.5,48.5,5,1,0
+236,masenik,United Kingdom,2380,CM,5.5,48.0,5,1,0
+237,FM_VS99,United States,2632,FM,5.5,47.5,5,1,0
+238,Herman-NY,United States,2521,IM,5.5,47.5,4,3,0
+239,giomar27,Croatia,2401,CM,5.5,46.5,4,3,0
+240,Colombiano07,Colombia,2380,FM,5.5,45.5,5,1,0
+241,SpongeBob_03,Sri Lanka,2254,WCM,5.5,45.0,5,1,0
+242,Mikhail_Golubev,Ukraine,2761,GM,5.5,45.0,5,1,0
+243,RuleOfTwo,Canada,2466,CM,5.5,43.5,5,1,0
+244,Rikikits,France,2858,GM,5.5,43.0,5,1,0
+245,FMCASTE,Philippines,2436,FM,5.5,35.5,5,1,0
+246,KNVB,Canada,2706,GM,5.0,62.0,5,0,0
+247,Flawless_Fighter,Click here to see our stance on the war in Ukraine,2701,IM,5.0,62.0,5,0,0
+248,LaPiToB,Puerto Rico,2316,FM,5.0,59.0,5,0,0
+249,anasta10,Greece,2644,FM,5.0,58.5,5,0,0
+250,cthulhuuu,Poland,2436,CM,5.0,58.0,5,0,0
+251,NovozhilovSemen,International,2629,FM,5.0,56.0,5,0,0
+252,drillovsky,Slovenia,2417,FM,5.0,54.5,4,2,0
+253,Noki102,United States,2564,NM,5.0,54.0,5,0,0
+254,Boundless_Strike,Djibouti,2648,IM,5.0,54.0,5,0,0
+255,Nf3c5,Brazil,2599,FM,5.0,53.5,5,0,0
+256,ImportedItalianMaple,Portugal,2474,NM,5.0,53.5,5,0,0
+257,crazy_m_attack,Iran,2443,WFM,5.0,53.0,5,0,0
+258,Barmen_EV,International,2514,IM,5.0,52.5,5,0,0
+259,DvaHrasta,Serbia,2483,FM,5.0,52.5,5,0,0
+260,RaneshRatnesan,United Kingdom,2323,CM,5.0,52.5,5,0,0
+261,Alkhoori90,United Arab Emirates,2283,FM,5.0,52.5,5,0,0
+262,SergioMoralesG,Mexico,2511,FM,5.0,51.5,5,0,0
+263,krucki03,Austria,2517,FM,5.0,51.0,4,2,0
+264,CruzWilliam,Brazil,2405,FM,5.0,51.0,5,0,0
+265,Balla_Tamas,Romania,2606,IM,5.0,50.5,5,0,0
+266,PushingpawnsNYC,Puerto Rico,2354,NM,5.0,50.5,5,0,0
+267,KVAIDAN,Click here to see our stance on the war in Ukraine,2349,CM,5.0,50.0,5,0,0
+268,Viktor_Poddubnyi,International,2319,FM,5.0,50.0,5,0,0
+269,Flaccidmoves,United States,2474,NM,5.0,49.5,5,0,0
+270,Laico,Brazil,2437,FM,5.0,48.5,5,0,0
+271,FlemingA,San Marino,2507,CM,5.0,48.0,5,0,0
+272,Aleksandar-Topalov,Serbia,2415,CM,5.0,47.5,5,0,0
+273,C_K_G,Bangladesh,2086,CM,5.0,47.5,5,0,0
+274,FARIZA2018,Uzbekistan,2626,WFM,5.0,46.0,5,0,0
+275,GM_Huschenbeth,Germany,2519,GM,5.0,45.0,4,2,0
+276,RaugintaBulba,Lithuania,2483,CM,5.0,45.0,5,0,0
+277,Real_taiatai,United States,2318,NM,5.0,44.5,5,0,0
+278,OppieZippy,Brazil,2381,NM,5.0,44.5,5,0,0
+279,FMVolodymyrSakun,Ukraine,2639,FM,5.0,44.0,4,2,0
+280,DeArron_Fox,Ukraine,2520,FM,5.0,43.0,5,0,0
+281,NastyaHn,Ukraine,2429,WFM,5.0,42.5,4,2,0
+282,JonasEilenberg,Germany,2723,FM,5.0,40.5,5,0,0
+283,Schachmalanders,Germany,2408,CM,5.0,40.0,5,0,0
+284,Sofia_Blokhin,Estonia,2259,WCM,5.0,38.0,5,0,0
+285,ZuraTqebuchava,Georgia,2256,IM,5.0,36.5,5,0,0
+286,MatyChess1,Chile,2734,IM,5.0,35.0,5,0,0
+287,Pastore1978,Italy,2281,FM,5.0,30.5,5,0,0
+288,WFM_Sara_Adel,Egypt,2145,WFM,5.0,26.5,5,0,0
+289,Aariow,France,2441,IM,5.0,23.0,5,0,0
+290,ninguno46,Argentina,2524,IM,5.0,20.0,5,0,0
+291,dennisodessa,Click here to see our stance on the war in Ukraine,2605,FM,5.0,17.5,5,0,0
+292,OneTrickPony_82,Poland,2441,FM,4.5,60.5,4,1,0
+293,Jojo_898,Turkmenistan,2360,WFM,4.5,59.0,3,3,0
+294,yaguigor,Click here to see our stance on the war in Ukraine,2555,GM,4.5,58.0,4,1,0
+295,InitiatingASC,Canada,2422,NM,4.5,57.5,4,1,0
+296,esrosenberg,United States,2375,NM,4.5,56.5,4,1,0
+297,AsaHoffmann,United States,2358,FM,4.5,53.5,4,1,0
+298,andrzej,Poland,2417,CM,4.5,53.5,4,1,0
+299,Arimin1329,Germany,2375,CM,4.5,53.0,4,1,0
+300,Tramontanaaa,Ukraine,2288,WIM,4.5,51.0,4,1,0
+301,01Roman,Serbia,2427,FM,4.5,51.0,4,1,0
+302,Cheer_Down,Israel,2552,CM,4.5,50.5,4,1,0
+303,Chessexplained,Germany,2614,IM,4.5,50.0,4,1,0
+304,Predo63,Serbia,2514,FM,4.5,50.0,4,1,0
+305,Kaissa10,Uzbekistan,2229,WFM,4.5,49.5,4,1,0
+306,ploxoi,Ukraine,2500,NM,4.5,48.0,4,1,0
+307,Garbaranza,Argentina,2404,IM,4.5,48.0,4,1,0
+308,DTChess,Serbia,2739,FM,4.5,46.0,4,1,0
+309,NewYearGirl,International,2390,WIM,4.5,45.5,4,1,0
+310,Eloist,Germany,2444,FM,4.5,44.0,4,1,0
+311,karinachess1,Click here to see our stance on the war in Ukraine,2615,IM,4.5,42.5,4,1,0
+312,margarita_2703,Click here to see our stance on the war in Ukraine,2259,WFM,4.5,42.5,4,1,0
+313,GMKrikor,Brazil,2878,GM,4.5,42.5,4,1,0
+314,Alexei_Gubajdullin,International,2650,FM,4.5,41.5,4,1,0
+315,simonachess,Lithuania,2324,WIM,4.5,41.0,4,1,0
+316,Grammnik,Click here to see our stance on the war in Ukraine,2276,FM,4.5,38.0,3,3,0
+317,m_ezat,Egypt,2603,IM,4.5,34.0,4,1,0
+318,NovakRatko,Croatia,2371,CM,4.5,32.5,4,1,0
+319,Darkbluelord,United States,2113,NM,4.5,27.5,4,1,0
+320,stepanosinovsky,Click here to see our stance on the war in Ukraine,2374,CM,4.0,56.0,4,0,0
+321,cristiano78,Brazil,2255,NM,4.0,55.0,3,2,0
+322,UK_23,Germany,2442,FM,4.0,54.5,3,2,0
+323,IAgrest,Sweden,2305,WIM,4.0,54.0,3,2,0
+324,LLariMarc,France,2555,CM,4.0,53.5,3,2,0
+325,LeoWin2012,Italy,2359,NM,4.0,52.5,4,0,0
+326,Kopytkin,Poland,2411,FM,4.0,51.0,4,0,0
+327,Barbix1,France,2305,IM,4.0,49.5,4,0,0
+328,KorolDimitriy75,Ukraine,2436,NM,4.0,49.5,3,2,0
+329,PapaieDudu,Brazil,2324,NM,4.0,49.5,4,0,0
+330,SabinaFoisor,United States,2335,WGM,4.0,49.0,3,2,0
+331,kekic76,Bosnia-Herzegovina,2303,CM,4.0,47.5,3,2,0
+332,Fortitudine,Brazil,2365,NM,4.0,47.0,4,0,0
+333,dey2580,Peru,2467,IM,4.0,46.5,3,2,0
+334,yonaltimur,Türkiye,2280,CM,4.0,46.5,3,2,0
+335,AlexPapasimakopoulos,Greece,2822,FM,4.0,46.0,4,0,0
+336,Nekoo04,Kazakhstan,2453,WIM,4.0,46.0,4,0,0
+337,EvgenyBurmakin,Click here to see our stance on the war in Ukraine,2382,FM,4.0,46.0,3,2,0
+338,PavelChernomordik,Israel,2505,FM,4.0,46.0,3,2,0
+339,falzehope0,United States,2380,NM,4.0,45.5,4,0,0
+340,Willi_Skibbe,Germany,2286,FM,4.0,44.0,4,0,0
+341,Dewarfd,Dominican Republic,2123,CM,4.0,43.5,3,2,0
+342,alvarorodriguezavila,Spain,2264,CM,4.0,43.5,4,0,0
+343,ClaudiaSof,Romania,2359,WFM,4.0,43.5,4,0,0
+344,Kotofeyca,Palau,2513,FM,4.0,43.0,4,0,0
+345,GMJustin,United States,2407,IM,4.0,43.0,4,0,0
+346,Ze-Pequeno,Germany,2112,FM,4.0,42.0,4,0,0
+347,Louis-Paulsen-Fan,Germany,2356,FM,4.0,42.0,3,2,0
+348,MdChess1734,India,2411,WIM,4.0,41.5,4,0,0
+349,kai_nov,Click here to see our stance on the war in Ukraine,2275,IM,4.0,41.5,4,0,0
+350,Pumpkin_in_moonlight,Serbia,2268,WIM,4.0,40.5,4,0,0
+351,Chessdude1987,United Kingdom,2317,NM,4.0,40.5,3,2,0
+352,RCone,Poland,2440,CM,4.0,40.0,4,0,0
+353,NowInChess,Spain,2224,CM,4.0,40.0,4,0,0
+354,publicaccountcze,Czech Republic,2169,IM,4.0,40.0,4,0,0
+355,Skatchkov_V,Click here to see our stance on the war in Ukraine,2623,FM,4.0,39.5,4,0,0
+356,laiciffOneslraCsungaM,Norway,2468,NM,4.0,39.5,4,0,0
+357,Zohid6,Türkiye,2955,IM,4.0,39.0,4,0,0
+358,Veleamater,Serbia,2422,FM,4.0,38.5,4,0,0
+359,Felix-Rose,Mexico,2319,CM,4.0,38.0,3,2,0
+360,agvega14,Cuba,2237,FM,4.0,38.0,3,2,0
+361,themind1hunter,Azerbaijan,2378,IM,4.0,37.0,4,0,0
+362,Matols,Click here to see our stance on the war in Ukraine,2438,WIM,4.0,37.0,4,0,0
+363,Kostukov_Alex,Ukraine,2345,NM,4.0,37.0,4,0,0
+364,BeyondMadness,Netherlands,2227,FM,4.0,36.5,4,0,0
+365,ljuks68,Ukraine,2457,FM,4.0,36.5,4,0,0
+366,knightinshiningarmour16,India,2290,WCM,4.0,36.0,3,2,0
+367,kngopal,India,2251,CM,4.0,35.5,4,0,0
+368,AndresDelgado77,Ecuador,2402,FM,4.0,34.5,4,0,0
+369,Allion2017,Click here to see our stance on the war in Ukraine,2269,FM,4.0,33.0,3,2,0
+370,The_Straightforward_Rook,Wales,2472,FM,4.0,30.0,4,0,0
+371,RajdeepS,India,2385,IM,3.5,48.0,3,1,0
+372,Arlo2024,Norway,2414,CM,3.5,48.0,3,1,0
+373,PawnEatingZombie,United States,2272,NM,3.5,47.5,3,1,0
+374,Chemim21,Brazil,2214,FM,3.5,46.5,3,1,0
+375,TheChessKitchenTwitch,Iceland,2409,IM,3.5,45.5,3,1,0
+376,chessjazda,Poland,2259,CM,3.5,43.0,3,1,0
+377,Smile2005,Serbia,2476,FM,3.5,41.0,3,1,0
+378,Keeper0416,Mongolia,2568,FM,3.5,33.5,3,1,0
+379,GameOverBro,Canada,2570,CM,3.5,30.0,3,1,0
+380,Kira170,Brazil,2746,GM,3.5,26.0,3,1,0
+381,Klavdia_Nik,Click here to see our stance on the war in Ukraine,1984,WGM,3.0,50.0,3,0,0
+382,topce,Montenegro,2431,CM,3.0,46.0,3,0,0
+383,FMCarmona,Mexico,2290,FM,3.0,45.5,2,2,0
+384,carloseduar100,Colombia,2334,FM,3.0,45.5,3,0,0
+385,Witty_Alien,Bulgaria,2408,CM,3.0,45.0,3,0,0
+386,javirec,Spain,2262,FM,3.0,44.5,3,0,0
+387,BozeKat,Palestine,2093,FM,3.0,42.5,3,0,0
+388,DDTerziev04,Bulgaria,2281,CM,3.0,42.5,3,0,0
+389,campochess,Colombia,2135,CM,3.0,39.5,3,0,0
+390,tarno17,Poland,2238,WCM,3.0,39.0,3,0,0
+391,KejJaj,Norway,2150,CM,3.0,38.5,3,0,0
+392,Alenzer,Luxembourg,2152,WFM,3.0,37.0,2,2,0
+393,KSho99,United States,2160,NM,3.0,36.0,3,0,0
+394,Lunow,Poland,1063,IM,3.0,36.0,2,2,0
+395,bteillet,France,2248,CM,3.0,35.5,3,0,0
+396,Olya_Oblachko,Kazakhstan,2238,WFM,3.0,34.5,3,0,0
+397,Ezov,Click here to see our stance on the war in Ukraine,2187,IM,3.0,32.0,3,0,0
+398,Yushko_Olga,Ukraine,2226,WFM,3.0,31.5,3,0,0
+399,Nellichka,Türkiye,2025,WIM,3.0,31.0,3,0,0
+400,ilya2700,Israel,2365,CM,3.0,30.5,3,0,0
+401,Bushonica,Romania,1797,WCM,3.0,30.0,3,0,1
+402,Antik5,Czech Republic,2331,IM,3.0,29.5,3,0,0
+403,stratacticos,Greece,1840,CM,3.0,25.5,3,0,0
+404,frequentblunders,United States,2226,NM,3.0,25.0,2,2,0
+405,abelmat,Ethiopia,2120,CM,3.0,24.5,3,0,0
+406,Fore_Man,Click here to see our stance on the war in Ukraine,2214,FM,3.0,24.0,3,0,0
+407,ChessBliss09,United Kingdom,2274,WCM,3.0,20.0,2,2,0
+408,NMChessToImpress,United States,2259,NM,3.0,19.5,3,0,0
+409,mariangie523,Panama,2170,WCM,3.0,11.0,3,0,0
+410,marvinguevara,El Salvador,2135,FM,2.5,40.5,2,1,0
+411,pfalcon1949,United States,1811,NM,2.5,34.0,2,1,0
+412,Eesha-Karavade,India,2447,IM,2.5,34.0,2,1,0
+413,powermove,South Africa,2062,WFM,2.5,33.5,2,1,0
+414,mrsmarple1968,United Kingdom,1591,WFM,2.5,31.0,2,1,0
+415,MikeSailer,United States,2120,NM,2.5,30.5,2,1,0
+416,LiadCuba,Cuba,2506,NM,2.5,28.0,2,1,0
+417,chessfatbear,China,2838,GM,2.5,24.0,2,1,0
+418,shirovin,Netherlands,2000,CM,2.0,40.5,2,0,0
+419,Canal_Showdrez,Brazil,1811,NM,2.0,40.0,2,0,0
+420,LuisFSiles,Spain,2348,FM,2.0,37.0,2,0,0
+421,SmirnovTimofey2000,Click here to see our stance on the war in Ukraine,1977,FM,2.0,34.5,2,0,0
+422,cthake,Malta,1877,CM,2.0,33.5,2,0,0
+423,martinmena,Egypt,2131,FM,2.0,33.0,2,0,0
+424,UnTucopalaTimba,Martinique,2119,WCM,2.0,31.5,2,0,0
+425,JoliyRoger,Click here to see our stance on the war in Ukraine,2543,FM,2.0,31.0,2,0,0
+426,maurovargas01,Colombia,1997,FM,2.0,29.0,2,0,0
+427,DianaMirza,Ireland,1902,WFM,2.0,27.0,2,0,0
+428,soloderisas,Spain,2646,FM,2.0,24.5,2,0,0
+429,Jmf24,Philippines,2432,WGM,2.0,24.0,2,0,0
+430,BaDi50,United Kingdom,2197,CM,2.0,19.0,2,0,0
+431,AljoschaFeuerstack,Germany,2636,IM,2.0,18.5,2,0,0
+432,Snegokhod,Estonia,2533,FM,2.0,18.5,2,0,0
+433,jeetjain,India,2538,FM,2.0,18.0,2,0,0
+434,krstulov_alex,Hungary,2624,IM,2.0,13.5,2,0,0
+435,Sadykov_Ramil,Click here to see our stance on the war in Ukraine,2602,FM,2.0,0.0,2,0,1
+436,Better_Chess_Faster,United Kingdom,2146,NM,1.5,23.5,1,1,0
+437,Nasrin_Babayeva,Azerbaijan,2018,WFM,1.5,18.0,1,1,0
+438,familijatop71,Serbia,2332,CM,1.0,30.0,1,0,0
+439,Zorbos,Portugal,2641,FM,1.0,23.5,1,0,0
+440,rikchessmx,Mexico,2323,FM,1.0,20.5,1,0,0
+441,Gergo85,Hungary,2617,GM,1.0,14.0,1,0,0
+442,BreguRiza,Albania,2385,CM,1.0,12.5,1,0,0
+443,albi1999,Italy,2607,IM,1.0,11.0,1,0,0
+444,RichardLeyvaP,Cuba,2661,IM,1.0,9.0,1,0,0
+445,Marcin,Poland,2703,FM,1.0,8.0,1,0,0
+446,jraosam,India,2017,CM,1.0,5.0,1,0,0
+447,Massakru,Malta,2384,CM,0.5,12.5,0,1,0
+448,elchacal664,Mexico,2223,NM,0.0,17.5,0,0,0
+449,salomez,Lithuania,2286,WGM,0.0,12.0,0,0,0
+450,PedroGil25,Portugal,2576,FM,0.0,7.0,0,0,0
+451,DonMicheleCorleone,Italy,2482,FM,0.0,7.0,0,0,0
+452,leschebaza,Afghanistan,2410,FM,0.0,6.5,0,0,0
+453,N18player,Greece,2476,FM,0.0,0.0,0,0,0
+454,amanmuhammethommadov,Turkmenistan,2743,NM,0.0,0.0,0,0,0
+455,ybothg,United States,2507,NM,0.0,0.0,0,0,0
+456,IsaqueGoncalvesSanto,Brazil,1875,NM,0.0,0.0,0,0,0
+457,Vladimir_Zakhartsov,Click here to see our stance on the war in Ukraine,2910,GM,0.0,0.0,0,0,0
+458,zimmm36,Kazakhstan,2699,FM,0.0,0.0,0,0,0
+459,Evandro_Barbosa,Brazil,2712,GM,0.0,0.0,0,0,0
+460,Morscas,Germany,2301,FM,0.0,0.0,0,0,0
+461,McCarthyStone,England,2496,CM,0.0,0.0,0,0,0
+462,Emp3rador,Click here to see our stance on the war in Ukraine,2642,FM,0.0,0.0,0,0,0
+463,PabloZarnicki,Argentina,2584,GM,0.0,0.0,0,0,0
+464,Pakarma,Slovenia,2413,FM,0.0,0.0,0,0,0
+465,diamonds13,Greece,2330,WIM,0.0,0.0,0,0,0
+466,platy3,Spain,2921,GM,7.0,53.0,6,2,0
+467,lachesisQ,Click here to see our stance on the war in Ukraine,3161,GM,6.5,62.5,6,1,0
+468,Firouzja2003,France,3156,GM,6.5,56.5,6,1,0
+469,lucliasco,Argentina,2851,IM,6.5,52.5,5,3,0
+470,LyonBeast,France,3131,GM,6.0,50.0,6,0,0
+471,Onischuk_V,Ukraine,2831,GM,6.0,42.0,6,0,0
+472,bardiya_Daneshvar,Iran,3005,GM,6.0,52.5,6,0,0
+473,Volodar_Murzin,Click here to see our stance on the war in Ukraine,3001,GM,6.0,50.0,6,0,0
+474,kleinebeer98,Netherlands,2908,GM,6.0,49.5,5,2,0
+475,DreamsAreFake,North Macedonia,2700,IM,6.0,60.0,6,0,0
+476,nocnypako,Poland,2682,IM,6.0,46.0,6,0,0
+477,HansOnTwitch,United States,3161,GM,5.5,47.0,5,1,0
+478,BilodeauA,Austria,2912,GM,5.5,46.0,5,1,0
+479,Jospem,Mexico,3078,GM,5.5,53.5,4,3,0
+480,kingofthenil,France,2784,IM,5.5,48.0,5,1,0
+481,DrVitman,Argentina,2783,GM,5.5,39.5,4,3,0
+482,angelgab3,Colombia,2682,FM,5.5,47.0,5,1,0
+483,vugarrasulov,Azerbaijan,2990,GM,5.0,46.0,5,0,0
+484,Sanan_Sjugirov,Hungary,3025,GM,5.0,43.5,5,0,0
+485,rezamahdavi2008,Iran,2937,FM,5.0,42.0,5,0,0
+486,dozer80,Türkiye,2717,IM,5.0,41.5,5,0,0
+487,forevery0ung,Poland,2757,NM,5.0,39.5,5,0,0
+488,Arifarsky,Indonesia,2750,NM,5.0,34.5,5,0,0
+489,wadsy27,England,2689,IM,5.0,20.0,5,0,0
+490,Makswolf200817,Click here to see our stance on the war in Ukraine,2685,FM,5.0,49.0,5,0,0
+491,GianmarcoVaR,Peru,2866,IM,5.0,36.5,5,0,0
+492,HamedWafa4,Egypt,2820,IM,5.0,35.5,5,0,0
+493,MKlose11,Spain,2736,FM,5.0,35.0,4,2,0
+494,CrushingKings,Spain,2561,FM,5.0,51.5,5,0,0
+495,Elsa167,Croatia,2782,GM,4.5,41.0,4,1,0
+496,artooon,International,3050,GM,4.5,38.0,4,1,0
+497,vladislavkovalev,International,2935,GM,4.5,35.0,4,1,0
+498,Kiborg95,Bosnia-Herzegovina,2801,GM,4.5,34.0,4,1,0
+499,Mikasinski,Serbia,2735,FM,4.5,45.0,4,1,0
+500,Alex_Banzea,Romania,2697,IM,4.5,43.5,4,1,0
+501,sofaceindisguise,Click here to see our stance on the war in Ukraine,2722,FM,4.5,33.0,4,1,0
+502,ozates,Türkiye,2669,FM,4.5,51.0,4,1,0
+503,ArtemDyachuk,Ukraine,2691,FM,4.5,49.5,4,1,0
+504,Pingah9,Spain,2526,FM,4.5,42.0,4,1,0
+505,joksijoksi,Serbia,2567,WIM,4.5,40.5,4,1,0
+506,Herzog2012,Kazakhstan,2620,FM,4.5,40.0,4,1,0
+507,patzer-reloaded,International,2553,FM,4.5,42.0,3,3,0
+508,BillieKimbah,Click here to see our stance on the war in Ukraine,2938,GM,4.0,30.5,4,0,0
+509,Megagigahiper3345,Poland,2636,IM,4.0,36.5,4,0,0
+510,Keithonsky,South Africa,2689,CM,4.0,36.5,3,2,0
+511,hurricane7791,Spain,2730,IM,4.0,34.0,4,0,0
+512,Andrei_Skvortsov,Montenegro,2838,CM,4.0,33.5,3,2,0
+513,I_am_Javi,Spain,2767,IM,4.0,33.0,4,0,0
+514,Genghis_K,Argentina,2928,GM,4.0,29.5,4,0,0
+515,JSPrepz,Norway,2799,GM,4.0,27.0,4,0,0
+516,Indianlad,India,3059,GM,4.0,43.0,3,2,0
+517,KogotBobra17,Click here to see our stance on the war in Ukraine,2702,CM,4.0,42.0,4,0,0
+518,Galileo22,United States,2601,NM,4.0,41.0,3,2,0
+519,Rawnsdale,United States,2454,NM,4.0,39.5,4,0,0
+520,Zurability,United States,2777,IM,4.0,39.0,4,0,0
+521,Nuvas,Greece,2842,GM,4.0,39.0,4,0,0
+522,RamonManon0g,United States,2399,NM,4.0,36.5,4,0,0
+523,Phelathegreat,South Africa,2454,IM,4.0,35.5,4,0,0
+524,Kostya0705,Italy,2562,FM,4.0,33.5,4,0,0
+525,Fonsofan,Spain,2830,IM,4.0,33.0,4,0,0
+526,WindWhistler11,Mongolia,2574,FM,4.0,50.0,4,0,0
+527,ketster,Guatemala,2579,FM,4.0,38.0,4,0,0
+528,Sanyura,Poland,2650,WGM,4.0,37.5,3,2,0
+529,LeoLV10,Spain,2609,FM,4.0,36.5,3,2,0
+530,Srisshhhtea,India,2353,WIM,4.0,36.0,3,2,0
+531,AlexKhripachenko,Click here to see our stance on the war in Ukraine,2856,FM,3.5,29.0,3,1,0
+532,Alexander_Donchenko,International,2909,GM,3.5,34.0,3,1,0
+533,Steven_Rojas,Peru,2624,FM,3.5,25.5,3,1,0
+534,Thjop,Germany,2653,IM,3.5,19.5,3,1,0
+535,AsterPhoenix,Belgium,2627,FM,3.5,34.0,3,1,0
+536,DanylaBagrov,Ukraine,2573,CM,3.5,31.0,3,1,0
+537,only_strong_moves,Ukraine,2721,FM,3.5,30.0,3,1,0
+538,Seinw1,Kiribati,2556,FM,3.5,41.5,3,1,0
+539,Iball95,Click here to see our stance on the war in Ukraine,2900,FM,3.5,38.5,3,1,0
+540,ReinisUz,Latvia,2567,NM,3.5,37.5,3,1,0
+541,ferdipy,Paraguay,2354,NM,3.5,36.5,3,1,0
+542,ARMQUEEN,Armenia,2350,WGM,3.5,36.0,3,1,0
+543,ama18,Iran,2652,WGM,3.5,36.0,3,1,0
+544,alturas_pacificas,United Kingdom,2393,NM,3.5,48.5,2,3,0
+545,Boninknights,United States,2452,IM,3.5,48.0,3,1,0
+546,AlessiaSanteramo,Italy,2323,WFM,3.5,46.5,3,1,0
+547,Krakozia,Click here to see our stance on the war in Ukraine,2940,GM,3.0,10.5,3,0,0
+548,GroovyKettle,Netherlands,2953,GM,3.0,23.0,2,2,0
+549,MetiForce,Iran,2908,IM,3.0,17.5,3,0,0
+550,Petrovic_Aleksa,Serbia,2732,FM,3.0,12.5,3,0,0
+551,crazy_but_lazy,Poland,2720,FM,3.0,29.5,3,0,0
+552,chessllermo,Spain,2492,IM,3.0,28.5,3,0,0
+553,Chesstrainer1,Click here to see our stance on the war in Ukraine,2510,IM,3.0,18.0,3,0,0
+554,Triumphmate,India,2493,IM,3.0,38.0,3,0,0
+555,Savagelittlemole,Poland,2504,WIM,3.0,33.5,3,0,0
+556,arenal72,Spain,2741,FM,3.0,29.5,3,0,0
+557,valeriocarnicelli,Italy,2587,FM,3.0,28.5,3,0,0
+558,Giantgoogachess,United States,2373,NM,3.0,42.0,3,0,0
+559,oggy1984,Croatia,2451,FM,3.0,34.5,3,0,0
+560,zajka-molotok,Ukraine,2593,IM,3.0,33.0,3,0,0
+561,itsdsyr,Indonesia,2321,WFM,3.0,30.5,3,0,0
+562,jens1102,Norway,2556,IM,3.0,29.5,3,0,0
+563,Capablanca_Oujda_2021,Morocco,2434,CM,3.0,27.0,3,0,0
+564,DAVIDHDZSTS,Mexico,1936,CM,3.0,17.5,3,0,0
+565,VinzentSpitzl,Bermuda,2510,FM,3.0,43.5,3,0,0
+566,Pawnpusher1245,Guadeloupe,2395,CM,3.0,38.0,2,2,0
+567,twitchTriniCupid,Trinidad/Tobago,2421,FM,3.0,29.5,3,0,0
+568,rachidhuilda,France,2406,CM,3.0,27.0,3,0,0
+569,GP9isback23,Peru,2694,FM,2.5,27.0,2,1,0
+570,BigAl,England,2533,IM,2.5,25.0,2,1,0
+571,maximnovik,Lithuania,2569,GM,2.5,24.0,2,1,0
+572,Khamrakulov_Djurabek,Uzbekistan,2903,GM,2.5,16.0,2,1,0
+573,GM4life,South Africa,2537,NM,2.5,31.0,2,1,0
+574,Shahdad2007,Iran,2526,CM,2.5,27.5,2,1,0
+575,JulbeNn,Spain,2572,IM,2.5,26.0,2,1,0
+576,komogro,Curacao,2482,CM,2.5,25.0,2,1,0
+577,dzilleruelo,Puerto Rico,2287,CM,2.5,23.0,2,1,0
+578,Twinstulle,Germany,2332,FM,2.5,22.0,2,1,0
+579,Demeter39,France,2398,WGM,2.5,44.0,2,1,0
+580,ilushka,Germany,2388,FM,2.5,40.0,2,1,0
+581,Schattman,Italy,2520,FM,2.5,36.5,2,1,0
+582,wild3000,Click here to see our stance on the war in Ukraine,2483,FM,2.5,32.0,2,1,0
+583,MrLion3000,International,2752,CM,2.5,27.5,2,1,0
+584,Z_Chess6,United Arab Emirates,2252,FM,2.5,28.5,2,1,0
+585,SmirnovAlexandrA,Click here to see our stance on the war in Ukraine,2590,FM,2.0,20.0,2,0,0
+586,Mistango,Click here to see our stance on the war in Ukraine,2610,IM,2.0,19.5,2,0,0
+587,jerry_77,Slovenia,2642,FM,2.0,19.0,2,0,0
+588,TimGrutter03,Netherlands,2613,FM,2.0,19.0,2,0,0
+589,h4parah5,Spain,2963,GM,2.0,18.5,1,2,0
+590,Akewjon,Uzbekistan,2800,IM,2.0,18.0,2,0,0
+591,MrTattaglia,Hungary,2836,GM,2.0,17.0,2,0,0
+592,Bigfish1995,Slovenia,3093,GM,2.0,16.5,2,0,0
+593,nindjaxx8,Argentina,2685,FM,2.0,16.0,2,0,0
+594,Kleyton_Lima,Brazil,2530,NM,2.0,15.0,2,0,0
+595,klimkoj,Poland,2933,IM,2.0,14.5,2,0,0
+596,temiksmozg,Ukraine,2719,GM,2.0,13.5,2,0,0
+597,jup1978,Spain,2542,FM,2.0,13.5,2,0,0
+598,Thee-Chessboy,South Africa,2608,FM,2.0,13.0,2,0,0
+599,EddieUrquhart,Canada,2472,NM,2.0,12.0,2,0,0
+600,Good_Knight_Kiss,United States,2442,NM,2.0,12.0,2,0,0
+601,Rozum_Ivan,Click here to see our stance on the war in Ukraine,2609,GM,2.0,12.0,2,0,0
+602,wannabe2700,Finland,2619,IM,2.0,23.5,2,0,0
+603,AlbusSevresPotter,Greece,2570,CM,2.0,23.5,2,0,0
+604,MidnightFox,Sweden,2519,FM,2.0,19.5,2,0,0
+605,MelihKaanCan,Türkiye,2326,NM,2.0,18.5,2,0,0
+606,unclear15,India,2447,FM,2.0,14.0,2,0,0
+607,ahkashefi2800,Iran,2548,FM,2.0,27.5,2,0,0
+608,Juicy_Fork,Kazakhstan,2533,FM,2.0,25.0,2,0,0
+609,MalyDominator,Nauru,2575,FM,2.0,24.5,2,0,0
+610,Mihajlovskij,France,2455,NM,2.0,23.5,2,0,0
+611,Rap_woyska,Click here to see our stance on the war in Ukraine,2538,FM,2.0,22.5,2,0,0
+612,BlackWidow515,India,2299,WFM,2.0,20.0,2,0,0
+613,BashirliSaadat,Azerbaijan,2431,WCM,2.0,19.5,2,0,0
+614,benhal,Norway,2400,IM,2.0,14.5,2,0,0
+615,Chernyavsky_A,Click here to see our stance on the war in Ukraine,2373,FM,2.0,29.5,2,0,0
+616,QueenOfTactics90,South Africa,2077,WIM,2.0,20.0,2,0,0
+617,MarijaKuznecova,Latvia,2438,WFM,2.0,33.0,2,0,0
+618,SanchezKelvin,Spain,2667,FM,2.0,2.5,2,0,0
+619,biostatistician,Galicia,2569,FM,1.5,8.0,1,1,0
+620,ArrestingPieces,Seychelles,2532,FM,1.5,19.0,1,1,0
+621,omulcafea,Moldova,2400,NM,1.5,17.5,1,1,0
+622,AjedrezenMadrid,Spain,2496,IM,1.5,16.5,1,1,0
+623,MNyuyu,Cuba,2528,CM,1.5,15.5,1,1,0
+624,Zheenbekov86,Kyrgyzstan,2456,NM,1.5,23.0,1,1,0
+625,microbear,United States,2254,NM,1.5,16.0,1,1,0
+626,Road2GM3000,European Union,2278,NM,1.5,24.5,1,1,0
+627,JiiHart,Finland,2198,CM,1.5,29.5,1,1,0
+628,lluiss,Spain,2233,FM,1.5,29.0,1,1,0
+629,FREZZY23,Egypt,2342,CM,1.0,0.0,1,0,0
+630,tvjosue,Dominican Republic,2642,IM,1.0,9.0,1,0,0
+631,dcremisi,United States,2629,NM,1.0,8.0,1,0,0
+632,JowJowTWT,Luxembourg,2512,NM,1.0,7.5,1,0,0
+633,CRObliterator,Switzerland,2349,CM,1.0,7.0,1,0,0
+634,IamSchrodingersCat,United States,2648,NM,1.0,7.0,1,0,0
+635,gpsji27,India,2442,WFM,1.0,7.0,1,0,0
+636,ljm509,Haiti,2050,CM,1.0,6.0,1,0,0
+637,larsmandreassen,Norway,2213,CM,1.0,6.0,1,0,0
+638,GM_dmitrij,Germany,3105,GM,1.0,5.5,1,0,0
+639,Nemegejas,Lithuania,2913,GM,1.0,4.5,1,0,0
+640,Juandiv_Chessmood,Colombia,1823,CM,1.0,0.0,1,0,1
+641,Elprofessor21,Greece,2738,FM,1.0,13.5,1,0,0
+642,Russian_berezka,Click here to see our stance on the war in Ukraine,2606,CM,1.0,13.0,1,0,0
+643,TangerineandLemon25,Saint Pierre/Miquelon,2688,IM,1.0,12.0,1,0,0
+644,betta2004,Italy,2463,FM,1.0,12.0,1,0,0
+645,YouShallNotPass001,Germany,2421,FM,1.0,12.0,1,0,0
+646,semchik90,Ukraine,2417,NM,1.0,12.0,1,0,0
+647,MokshAD1603,India,2650,IM,1.0,9.5,1,0,0
+648,epiclord678,Canada,2419,NM,1.0,9.0,1,0,0
+649,FairChess_on_YouTube,Maldives,3127,GM,1.0,7.5,1,0,0
+650,MasterofMasters2006,Brazil,2183,NM,1.0,7.0,1,0,0
+651,CalinGheorghiu,Romania,2551,FM,1.0,4.5,1,0,0
+652,Arseniy_Nesterov,International,2879,GM,1.0,0.0,1,0,0
+653,jlf287,Ireland,2482,CM,1.0,23.5,1,0,0
+654,ChessLebaneseSalah,Canada,2513,NM,1.0,20.0,1,0,0
+655,SilverSwords13,United States,2456,FM,1.0,18.0,1,0,0
+656,GMT4114,Türkiye,2022,WCM,1.0,17.0,1,0,0
+657,Ruchess27,India,2464,WIM,1.0,15.5,1,0,0
+658,masnyszachistaaa,Poland,2685,IM,1.0,15.5,1,0,0
+659,LikeWater,United States,2806,IM,1.0,15.0,1,0,0
+660,MAGMAchess02,United Kingdom,2270,NM,1.0,15.0,1,0,0
+661,indfraeng,France,2706,IM,1.0,14.5,1,0,0
+662,JosephRyan,Spain,2193,FM,1.0,12.5,0,2,0
+663,Sajith_Peiris,Sri Lanka,2187,FM,1.0,12.0,1,0,0
+664,OYAcosta,Mexico,2249,NM,1.0,12.0,1,0,0
+665,SEBAZZANO,Argentina,2351,CM,1.0,10.0,1,0,0
+666,Schwarzschidl,Canada,2543,NM,1.0,5.0,1,0,0
+667,CrazyMartian,India,2305,NM,1.0,5.0,1,0,0
+668,barbara25,Slovenia,2222,WFM,1.0,4.5,1,0,0
+669,vladimirssvesnikovs,Latvia,1941,IM,1.0,3.0,1,0,0
+670,inagreV,France,2418,FM,1.0,23.0,1,0,0
+671,KanalSzachowy,Poland,2369,CM,1.0,16.5,1,0,0
+672,Rital44,France,2689,IM,1.0,9.0,1,0,0
+673,SidArun,United States,2379,NM,1.0,6.0,1,0,0
+674,SamCopeland,United States,2343,NM,1.0,5.0,1,0,0
+675,Valy02chess,International,2205,WFM,1.0,4.0,1,0,0
+676,RamyresCoelho,Brazil,2266,WFM,1.0,17.5,1,0,0
+677,ava1411,Turks and Caicos Islands,2253,FM,1.0,28.0,1,0,0
+678,bocah_sakit,Indonesia,2658,GM,1.0,22.5,1,0,0
+679,Ziyamammadov,Azerbaijan,1972,CM,1.0,25.5,1,0,0
+680,Franmu14,Argentina,2597,FM,0.5,0.0,0,1,0
+681,TheoSlade,United States,2442,NM,0.5,7.0,0,1,0
+682,arctic_t00,Serbia,2719,IM,0.5,5.5,0,1,0
+683,HElissalt,Spain,2338,IM,0.5,8.0,0,1,0
+684,Malikova777,Uzbekistan,2324,WIM,0.5,14.5,0,1,0
+685,Honiex,Ukraine,2617,FM,0.0,0.0,0,0,0
+686,Klendi,Albania,2441,CM,0.0,0.0,0,0,0
+687,ChessWarrior3,Germany,2420,CM,0.0,0.0,0,0,0
+688,Magila31,Serbia,2363,FM,0.0,0.0,0,0,0
+689,ShadowJolteon,Brazil,2607,NM,0.0,0.0,0,0,0
+690,picturesquecheck,Poland,2532,FM,0.0,0.0,0,0,0
+691,Agent-JL,United States,2515,NM,0.0,0.0,0,0,0
+692,Der_Balak_3Halak,San Marino,2521,FM,0.0,0.0,0,0,0
+693,lolo9292,France,2204,IM,0.0,0.0,0,0,0
+694,Zmiyevik2200,Ukraine,2644,FM,0.0,0.0,0,0,0
+695,rynos0411,United States,2512,NM,0.0,0.0,0,0,0
+696,username9325890235,International,2499,FM,0.0,0.0,0,0,0
+697,queen_iryna,Guadeloupe,Unrated,WIM,0.0,0.0,0,0,0
+698,glebus008,Israel,2408,FM,0.0,0.0,0,0,0
+699,francyIM,Italy,2935,GM,0.0,0.0,0,0,0
+700,YouJustFoundYourGodfather,Germany,2600,FM,0.0,0.0,0,0,0
+701,ElDivis,Spain,2575,IM,0.0,0.0,0,0,0
+702,NikolaGry,Ukraine,2701,FM,0.0,0.0,0,0,0
+703,TatjanaVasilevich,Click here to see our stance on the war in Ukraine,2646,IM,0.0,0.0,0,0,0
+704,sakkikuska,Hungary,2528,FM,0.0,0.0,0,0,0
+705,Kaua18,Brazil,2562,FM,0.0,0.0,0,0,0
+706,enestnrvrd,Türkiye,2721,IM,0.0,0.0,0,0,0
+707,lipauska3,Croatia,2689,IM,0.0,0.0,0,0,0
+708,SaqoChess_Twitch,Armenia,2644,FM,0.0,0.0,0,0,0
+709,Just_Lucky_1,Click here to see our stance on the war in Ukraine,2594,FM,0.0,0.0,0,0,0
+710,tgpgoat,United States,2541,CM,0.0,8.5,0,0,0
+711,Artemiki,Armenia,2520,CM,0.0,8.0,0,0,0
+712,Langua_Chess,International,2432,FM,0.0,8.0,0,0,0
+713,HZMC92,Brazil,2490,NM,0.0,7.0,0,0,0
+714,bolwin,Myanmar,2197,FM,0.0,7.0,0,0,0
+715,crosky,Saint Pierre/Miquelon,2408,NM,0.0,6.0,0,0,0
+716,AryanTari,Norway,2970,GM,0.0,5.5,0,0,0
+717,GrigorGrigorov,Bulgaria,2900,GM,0.0,5.0,0,0,0
+718,yuki_chess123,Poland,2438,FM,0.0,3.0,0,0,0
+719,AlexandraSamaganova,Kyrgyzstan,2281,WFM,0.0,0.0,0,0,0
+720,Akylbek2021,Nicaragua,2473,FM,0.0,0.0,0,0,0
+721,Javylavilla,Cuba,2371,FM,0.0,13.0,0,0,0
+722,MANOJ_MISHRA123,India,2213,CM,0.0,12.5,0,0,0
+723,MFBerna,Brazil,2568,FM,0.0,10.5,0,0,0
+724,Sophist4Life,Brazil,2505,NM,0.0,4.0,0,0,0
+725,jasonbolivar,Colombia,2339,FM,0.0,4.0,0,0,0
+726,olawsson,Poland,2155,FM,0.0,12.0,0,0,0
+727,KnightmareJoker,South Africa,2338,CM,0.0,8.5,0,0,0
+728,leclash,Morocco,2451,FM,0.0,5.0,0,0,0
+729,MusicCityMaster,United States,2473,FM,0.0,15.0,0,0,0
+730,pooh2012,United States,2577,NM,0.0,0.0,0,0,0
+731,Danito1954,Argentina,2542,FM,0.0,25.5,0,0,0
+732,jcmesafischer,Dominican Republic,2409,CM,0.0,6.0,0,0,0
+733,michellopez159,Venezuela,2502,FM,0.0,0.0,0,0,0

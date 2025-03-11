@@ -1,0 +1,1 @@
+The `full_chess` branch contains a more complete dataset of Titled Tuesdays chess games (all games that occurred in 2024), as well as the analysis and predictive modelling for this full dataset.

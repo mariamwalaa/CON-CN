@@ -10,6 +10,9 @@ Source: [survivoR2py](https://github.com/stiles/survivoR2py)
 - [vote_history.csv](https://github.com/mariamwalaa/CON-CN/blob/main/output/Survivor/vote_history.csv)
 - [castaways.csv](https://github.com/mariamwalaa/CON-CN/blob/main/output/Survivor/castaways.csv)
 
+Notes: 
+- Episodic accuracy is added to `full_chess` branch.
+
 ### 2. Chess.com 
 
 Source: [Titled Tuesday website](https://www.chess.com/tournament/live/titled-tuesdays)
@@ -17,7 +20,7 @@ Source: [Titled Tuesday website](https://www.chess.com/tournament/live/titled-tu
 - [Titled Tuesday results](https://github.com/mariamwalaa/CON-CN/tree/main/output/Chess.com/Titled%20Tuesday%20Results)
 
 Notes:
-- We do not currently make use of the pairings files. 
+- We do not currently make use of the results files. 
 - For a more complete dataset and analysis, switch to `full_chess` branch. 
 
 ### 3. Dota 2
@@ -28,4 +31,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/bwandowando/dota-2-pro-league-m
   - teams: provides team ID, name, and tag
 - [processed](https://github.com/mariamwalaa/CON-CN/tree/main/output/DOTA2/processed)
   - dota2_final_20XX: merges columns from main_metadata and teams raw files
+
+Notes:
+- Gradient Boosting decision trees are included in the `full_chess` branch.
 

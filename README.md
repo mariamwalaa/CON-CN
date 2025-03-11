@@ -16,6 +16,10 @@ Source: [Titled Tuesday website](https://www.chess.com/tournament/live/titled-tu
 - [Titled Tuesday pairings](https://github.com/mariamwalaa/CON-CN/tree/main/output/Chess.com/Titled%20Tuesday%20Pairings)
 - [Titled Tuesday results](https://github.com/mariamwalaa/CON-CN/tree/main/output/Chess.com/Titled%20Tuesday%20Results)
 
+Notes:
+- We do not currently make use of the pairings files. 
+- For a more complete dataset and analysis, switch to `full_chess` branch. 
+
 ### 3. Dota 2
 
 Source: [Kaggle](https://www.kaggle.com/datasets/bwandowando/dota-2-pro-league-matches-2023)
